@@ -1,0 +1,20 @@
+.header{
+    background-color:aqua;
+    padding-top: 10px;;
+    justify-content:  space-between;
+    height: 600px;
+    text-align: center;
+    border: 2px black;
+    border-style: solid;
+    border-radius: 25px;
+    
+}
+.info{
+    text-align: center;
+    font-size: 40px;
+    font-family: monotype corsiva;
+    font-weight: 400; 
+}
+.title{
+    font-size: 20px;
+}
